@@ -22,8 +22,8 @@ This project is a quick start guide for those who want to jump into MVI architec
 
 #### Screenshots:
 
-![](screenshots\1.jpg)
+![](/screenshots\1.jpg)
 
-![](screenshots\2.jpg)
+![](/screenshots\2.jpg)
 
-![](screenshots\3.jpg)
+![](/screenshots\3.jpg)
