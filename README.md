@@ -1,10 +1,10 @@
 ## COVID-19 Tracker Android App
 
-COVID-19 Tracker app will give you latest updates about corona virus situation. You'll find all countries current covid-19 info. 
+COVID-19 Tracker app will give you the latest updates about the coronavirus situation. You'll find all country's current COVID-19 info.
 
 This project is a quick start guide for those who want to jump into MVI architecture. MVI architecture basically works like MVVM but with some additional features e.g. Event and State Management.
 
-### This app build with: 
+### This app builds with: 
 
 - Kotlin
 - MVI architecture
