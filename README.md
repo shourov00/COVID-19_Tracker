@@ -22,8 +22,4 @@ This project is a quick start guide for those who want to jump into MVI architec
 
 #### Screenshots:
 
-![Home](/screenshots/1.jpg =250x250)
-
-![Global](/screenshots/2.jpg | width=100)
-
-![Info](/screenshots/3.jpg | width=100)
+![Home](/screenshots/1.jpg)
