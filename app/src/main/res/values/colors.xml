@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main theme colors -->
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#0D1333</color>
+    <color name="colorAccent">#473F97</color>
+
+    <color name="card1">#FFB259</color>
+    <color name="card2">#FF5959</color>
+    <color name="card3">#4CD97B</color>
+    <color name="card4">#4CB5FF</color>
+    <color name="card5">#9059FF</color>
+
+    <color name="nav_checked">#4C79FF</color>
+    <color name="nav_unchecked">#999FBF</color>
+
+</resources>

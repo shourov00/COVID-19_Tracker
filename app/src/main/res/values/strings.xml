@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Covid19Tracker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_success">Success</string>
+    <string name="text_ok">OK</string>
+    <string name="text_error">Error</string>
+    <string name="text_info">Info</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="affected">Affected</string>
+    <string name="death">Death</string>
+    <string name="recovered">Recovered</string>
+    <string name="active">Active</string>
+    <string name="critical">Critical</string>
+    <string name="are_you_feeling_sick">Are you feeling sick?</string>
+    <string name="help_text">If you feel sick with any of COVID-19 symptoms please call at this number immediately for help.</string>
+    <string name="call_now">Call Now</string>
+    <string name="home">Home</string>
+    <string name="global">Global</string>
+    <string name="info">Info</string>
+    <string name="prevention">Prevention</string>
+    <string name="fazley_rabbi">Fazley Rabbi</string>
+    <string name="features">App Features:</string>
+    <string name="app_features">- Kotlin \n- MVI architecture \n- Repository pattern (NetworkBoundResource) \n- Coroutines (Flows and Channels) \n- Navigation Component with custom backstack \n- Dagger 2 \n- Room Persistence DB \n- Caching with Single source of truth \n- Retrofit 2 \n- Handle infinite request, cancel pending request (with Coroutines) \n- Programmatically implement search view \n- Material Design \n- Custom Bottom nav Behavior</string>
+    <string name="android_developer">Android Developer</string>
+</resources>
