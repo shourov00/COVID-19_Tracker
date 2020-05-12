@@ -1,6 +1,6 @@
 ## COVID-19 Tracker Android App
 
-![Home](/screenshots/icon.jpg)
+![Home](/screenshots/icon-01.jpg)
 
 ### PLAY STORE LINK: https://play.google.com/store/apps/details?id=com.sfazleyrabbi.covid19tracker
 
