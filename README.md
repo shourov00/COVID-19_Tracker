@@ -4,7 +4,7 @@ COVID-19 Tracker app will give you the latest updates about the coronavirus situ
 
 This project is a quick start guide for those who want to jump into MVI architecture. MVI architecture basically works like MVVM but with some additional features e.g. Event and State Management.
 
-### This app build with: 
+### This app builds with: 
 
 - Kotlin
 - MVI architecture
