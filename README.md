@@ -1,8 +1,6 @@
-## COVID-19 Tracker Android App
+## MVI COVID-19 Tracker Android App
 
 ![Home](/screenshots/icon-01.jpg)
-
-### PLAY STORE LINK: https://play.google.com/store/apps/details?id=com.sfazleyrabbi.covid19tracker
 
 COVID-19 Tracker is an open-source add free app that will give you the latest updates about the coronavirus situation. You'll find all country's current COVID-19 info.
 
