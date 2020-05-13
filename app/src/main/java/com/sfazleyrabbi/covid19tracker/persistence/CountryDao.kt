@@ -20,7 +20,7 @@ interface CountryDao {
     @Query("SELECT * FROM country WHERE country =:countryName")
     suspend fun searchByCountryName(countryName: String): Country
 
-    @Query("SELECT * FROM country WHERE country LIKE '%' || :query || '%'")
+    @Query("SELECT * FROM country WHERE country LIKE '%' || :query || '%' ORDER BY country ASC")
     suspend fun getAllCountiesInfo(query: String): List<Country>
 
 }

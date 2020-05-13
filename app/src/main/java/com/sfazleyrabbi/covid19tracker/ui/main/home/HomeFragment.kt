@@ -89,14 +89,18 @@ constructor(
 
         viewModel.stateMessage.observe(viewLifecycleOwner, Observer { stateMessage ->
             stateMessage?.let {
-                uiCommunicationListener.onResponseReceived(
-                    response = it.response,
-                    stateMessageCallback = object: StateMessageCallback {
-                        override fun removeMessageFromStack() {
-                            viewModel.clearStateMessage()
+                if(stateMessage.response.message.equals("Data is Null")){
+                    viewModel.clearStateMessage()
+                }else{
+                    uiCommunicationListener.onResponseReceived(
+                        response = it.response,
+                        stateMessageCallback = object: StateMessageCallback {
+                            override fun removeMessageFromStack() {
+                                viewModel.clearStateMessage()
+                            }
                         }
-                    }
-                )
+                    )
+                }
             }
         })
     }

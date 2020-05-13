@@ -78,10 +78,10 @@ constructor(
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         toolbarSetup()
+        subscribeObservers()
         setHasOptionsMenu(true)
         swipe_refresh.setOnRefreshListener(this)
         initRecyclerView()
-        subscribeObservers()
     }
 
     private fun toolbarSetup() {
